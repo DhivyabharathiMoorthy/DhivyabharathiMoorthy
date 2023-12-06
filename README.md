@@ -1,0 +1,3 @@
+Hi I am Dhivyabharathi Moorthy....
+I have strong skilled at Python,Sql,Unix,AWS & Github
+I am Interested to learn a new skill for my carrer concern
